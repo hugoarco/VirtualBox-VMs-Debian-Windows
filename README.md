@@ -15,6 +15,7 @@ Simular un entorno de laboratorio de sistemas completo
 
 <br><br>
 🧱 Contenidos del laboratorio
+
 🐧 1. Instalación y configuración de Debian
 Instalación completa de Debian GNU/Linux
 Configuración del sistema base
