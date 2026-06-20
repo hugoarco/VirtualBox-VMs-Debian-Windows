@@ -79,6 +79,7 @@ Herramientas de red (ip, ping, etc.)
 <br><br>
 
 📁 Estructura del proyecto
+<br><br>
 VirtualBox-VMs-Debian-Windows/
 │
 ├── scripts/
@@ -92,3 +93,5 @@ VirtualBox-VMs-Debian-Windows/
 │   └── TRABAJO_WORD_VIRTUALBOX.docx
 │
 └── README.md
+
+<br><br>
